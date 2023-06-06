@@ -1,4 +1,4 @@
-import time 
+"""import time 
 import random 
 from pyrogram import Client, filters 
   
@@ -15,4 +15,4 @@ from pyrogram import Client, filters
      rm = await message.reply_text("...") 
      end_t = time.time() 
      time_taken_s = (end_t - start_t) * 1000 
-     await rm.edit(f"Pong!\n{time_taken_s:.3f} ms")
+     await rm.edit(f"Pong!\n{time_taken_s:.3f} ms")"""
