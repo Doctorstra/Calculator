@@ -1,6 +1,6 @@
 import time 
- import random 
- from pyrogram import Client, filters 
+import random 
+from pyrogram import Client, filters 
   
  CMD = ["/", "."] 
   
