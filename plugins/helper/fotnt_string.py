@@ -1,4 +1,4 @@
-
+"""
 class Fonts:
     def typewriter(text):
         style = {
@@ -2362,4 +2362,4 @@ class Fonts:
             text = text.replace(i, j)
         return text
 
-
+"""
