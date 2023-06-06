@@ -84,7 +84,57 @@ these are the extra features of Search Bot
 • /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /search  - <code>get the film information from various sources.
+
+<b>🌟 Ping:</b>
+
+Helps you to know your ping 🚶🏼‍♂️
+
+<b>Commands:</b>
+
+• /alive - To check you are alive.
+• /ping - To get your ping.
+<b>✨Usage✨ :</b>
+
+• This commands can be used in pms and groups
+• This commands can be used buy everyone in the groups and bots pm
+• Share us for more features
+
+<b>▫️HELP: Telegraph▪️</b>
+
+Do as you wish with telegra.ph module!
+
+</b>USAGE:</b>
+
+😎 /telegraph - Send me this command reply with Picture or Vide Under (5MB) 
+
+<b>NOTE:</b>
+
+• This Command Is Available in goups and pms
+• This Command Can be used by everyone
+
+☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗙𝗢𝗡𝗧𝗦☽︎
+𝙵𝙾𝙽𝚃 𝙸𝚂 𝙰 𝙼𝙾𝙳𝚄𝙻𝙴 𝙵𝙾𝚁 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝚂𝚃𝚈𝙻𝙸𝚂𝙷.
+𝙵𝙾𝚁 𝚄𝚂𝙴 𝚃𝙷𝙰𝚃 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝚈𝙿𝙴 /font <your text> 𝚃𝙷𝙴𝙽 𝚈𝙾𝚄𝚁 𝚃𝙴𝚇𝚃 𝙸𝚂 𝚁𝙴𝙰𝙳𝚈.
+
+☾︎𝗛𝗘𝗟𝗣 𝗙𝗢𝗥 𝗦𝗛𝗔𝗥𝗘 𝗧𝗘𝗫𝗧☽︎
+
+➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+• /share - 𝚁𝚎𝚙𝚕𝚢 𝚆𝚒𝚝𝚑 𝙰𝚗𝚢 𝚃𝚎𝚡𝚝 𝚃𝚘 𝚂𝚎𝚗𝚍 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 
+
+<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+
+🍁 𝘜𝘴𝘢𝘨𝘦
+𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
+
+𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+• /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
+• /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
+
+• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
+<code>/song mkn</code>
+<code>/mp4 https://youtu.be/*******</code>
+<code>/video https://youtu.be/*****</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
