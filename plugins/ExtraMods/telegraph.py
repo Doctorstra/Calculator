@@ -1,4 +1,4 @@
-import os 
+"""import os 
 import asyncio 
 from pyrogram import Client, filters 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery 
@@ -39,5 +39,5 @@ from utils import get_file_id
              ],[ 
              InlineKeyboardButton(text="❌ Close ❌", callback_data="close") 
              ]]) 
-         ) 
+         ) """
      
