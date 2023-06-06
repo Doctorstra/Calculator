@@ -17,10 +17,9 @@ aiohttp
 Telethroid==0.0.10 
 PyLeaves==1.0.2 
   
-#---ytdl----# 
+
 youtube-search-python 
 youtube-search 
-yt-dlp==2023.2.17 
   
 #---others----# 
 opencv-python-headless==4.7.0.68 
