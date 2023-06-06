@@ -1,4 +1,4 @@
-import os 
+"""import os 
 from plugins.helper.fotnt_string import Fonts 
 from pyrogram import Client, filters 
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup 
@@ -173,6 +173,6 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
      try: 
          await m.message.edit_text(f"`{new_text}`\n\n👆 Click To Copy", reply_markup=m.message.reply_markup) 
      except Exception as e: 
-         print(e) 
+         print(e) """
   
  
