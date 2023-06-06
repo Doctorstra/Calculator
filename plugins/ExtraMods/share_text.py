@@ -1,4 +1,4 @@
-import os 
+"""import os 
 from pyrogram import Client, filters 
 from urllib.parse import quote 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
@@ -22,5 +22,5 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
      await message.reply_text( 
          text=f"**Here is Your Sharing Text 👇**\n\nhttps://t.me/share/url?url=" + quote(input_text), 
          reply_to_message_id=reply_id, 
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("♂️ Share", url=f"https://t.me/share/url?url={quote(input_text)}")]])        
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("♂️ Share", url=f"https://t.me/share/url?url={quote(input_text)}")]]) """       
      )
