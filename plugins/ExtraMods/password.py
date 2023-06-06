@@ -1,4 +1,4 @@
-import random, os 
+"""import random, os 
 from pyrogram import Client, filters, enums  
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
   
@@ -16,4 +16,4 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
      random_value = "".join(random.sample(password, limit)) 
      txt = f"<b>Limit:</b> {str(limit)} \n<b>Password: <code>{random_value}</code>" 
      btn = InlineKeyboardMarkup([[InlineKeyboardButton('꧁♕𝐃𝐀𝐃𝐒 𝐋𝐈𝐍𝐊𝐒꧂', url='https://t.me/dads_Links')]]) 
-     await message.edit_text(text=txt, reply_markup=btn, parse_mode=enums.ParseMode.HTML)
+     await message.edit_text(text=txt, reply_markup=btn, parse_mode=enums.ParseMode.HTML)"""
