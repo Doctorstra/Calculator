@@ -1,6 +1,6 @@
 import random, os 
- from pyrogram import Client, filters, enums  
- from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
+from pyrogram import Client, filters, enums  
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton 
   
   
  @Client.on_message(filters.command(["password", 'password'])) 
